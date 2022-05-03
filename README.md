@@ -1,6 +1,6 @@
 # Symfony REST API example using API Platform
 
-Used:
+Using:
 - Symfony 6
 - API Platform 2.6
 
